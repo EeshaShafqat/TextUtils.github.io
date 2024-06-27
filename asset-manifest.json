@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EeshaShafqat/TextUtils.github.io/static/css/main.76aec624.css",
+    "main.js": "/EeshaShafqat/TextUtils.github.io/static/js/main.f6a0a1ea.js",
+    "static/js/453.64512fd7.chunk.js": "/EeshaShafqat/TextUtils.github.io/static/js/453.64512fd7.chunk.js",
+    "index.html": "/EeshaShafqat/TextUtils.github.io/index.html",
+    "main.76aec624.css.map": "/EeshaShafqat/TextUtils.github.io/static/css/main.76aec624.css.map",
+    "main.f6a0a1ea.js.map": "/EeshaShafqat/TextUtils.github.io/static/js/main.f6a0a1ea.js.map",
+    "453.64512fd7.chunk.js.map": "/EeshaShafqat/TextUtils.github.io/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76aec624.css",
+    "static/js/main.f6a0a1ea.js"
+  ]
+}
